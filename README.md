@@ -14,4 +14,4 @@ This tool helps with Android localization workflows.
 
 ## License
 
-MIT
+Apache 2.0
